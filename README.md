@@ -2,7 +2,7 @@
 
 ## How it Works
 
-Your webCam provides input to the tenflow model which are embed in this code. and based on results it provides output.It could be complete written in javascript.
+Your webCam provides input to the tenflow model which are embed in this code. and based on results it provides output.
 
 ## Features
 
