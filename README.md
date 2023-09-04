@@ -21,5 +21,6 @@ Your webCam provides input to the tenflow model which are embed in this code. an
 
 ## Screenshots
 
-![Suprised ScreenShort](https://github.com/Zajjaj-Khan/Face_Recognition.JS/blob/master/images/Screenshot%20from%202023-09-04%2021-40-54.png)
+
 ![Nueral Screenshort](https://github.com/Zajjaj-Khan/Face_Recognition.JS/blob/master/images/neutral.png)
+![Suprised ScreenShort](https://github.com/Zajjaj-Khan/Face_Recognition.JS/blob/master/images/surprised.png)
